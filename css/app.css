@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 .navbar .nav-link {
   font-size: 14px;
   text-transform: uppercase;
@@ -52,6 +56,11 @@
   background-repeat: no-repeat;
   background-position: 0 -300;
   text-align: center;
+  color: #fff;
+}
+
+#main-footer {
+  background: black;
   color: #fff;
 }
 
