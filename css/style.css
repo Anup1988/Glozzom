@@ -62,7 +62,7 @@ body {
 #main-footer {
   background: black;
   color: #fff;
-  height: 100%;
+  margin: auto;
 }
 
 #video-play a {
